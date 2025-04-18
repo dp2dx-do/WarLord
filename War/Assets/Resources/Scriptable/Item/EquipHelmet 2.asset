@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868845b122827cd40aeda463ce01479c, type: 3}
+  m_Name: EquipHelmet 2
+  m_EditorClassIdentifier: 
+  <ItemID>k__BackingField: 31
+  Type: 0
+  Name: "\uC57D\uAC04 \uC88B\uC740 \uD22C\uAD6C"
+  dropItemResource: {fileID: 6831178835158795277, guid: 34309af3006f8db4789f7f26b0af7e96, type: 3}
+  icon: {fileID: 21300000, guid: 7503a0df35ac44b4fb97e9fbe7ae963f, type: 3}
+  MaxItemCount: 1
+  Price: 1364
+  itemClass: 3
+  AttackPower: 10
+  STR: 10
+  HP: 10
+  Defense: 10
+  Slot: 1

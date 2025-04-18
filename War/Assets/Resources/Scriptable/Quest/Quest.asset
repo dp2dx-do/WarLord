@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 052c2447735c7f14fbfe822a309accf7, type: 3}
+  m_Name: Quest
+  m_EditorClassIdentifier: 
+  questID: 0
+  reqLevel: 0
+  questName: "\uC77C\uB2E8 \uC544\uBB34\uAC70\uB098 \uC7A1\uC544 \uBCF4\uC790"
+  questDescription: "\uCE74\uC624\uC2A4 \uB358\uC804\uC5D0\uC11C \uC544\uBB34 \uBAB9\uC774\uB098
+    \uC7A1\uC790."
+  AnyMonster: 1
+  normalMonsterID: 
+  BossMonsterID: 0
+  BossDifficult: 0
+  questCount: 5
+  RewardGold: 100
+  RewardExp: 100

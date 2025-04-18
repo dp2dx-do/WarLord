@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee14c52c4cd4064eb20ba84d2c9e85a, type: 3}
+  m_Name: UseRedPotion
+  m_EditorClassIdentifier: 
+  <ItemID>k__BackingField: 1000050000
+  Type: 1
+  Name: "\uBE68\uAC04 \uD3EC\uC158"
+  dropItemResource: {fileID: 919132149155446097, guid: 7b5d2acac8a60784f9c5c594683d7713, type: 3}
+  icon: {fileID: 21300000, guid: da071679a3b1a4fe1b1dea0bae510a73, type: 3}
+  MaxItemCount: 9999
+  Price: 1
+  description: "\uBD89\uC740 \uC57D\uCD08\uB85C \uB9CC\uB4E0 \uBB3C\uC57D\uC774\uB2E4.\n\uCCB4\uB825\uC744
+    50 \uD68C\uBCF5\uD55C\uB2E4."
+  Recovery: 50
+  RecoveryPercent: 0
